@@ -123,7 +123,7 @@ Link kode program : [TestLingkaran1841720060Nurudin.java](../../src/2_Class_dan_
 4. - Class `Barang1841720060Nurudin`
 ![Lingkaran.java](img/tgs4.JPG)
 Link kode program : [Barang1841720060Nurudin.java](../../src/2_Class_dan_Object/tugas/Barang1841720060Nurudin.java)
-  - Class `TestLingkaran`
+  - Class `TestBarang1841720060Nurudin`
   ![TestLingkaran.java](img/tgs4.1.JPG)
 Link kode program : [TestBarang1841720060Nurudin.java](../../src/2_Class_dan_Object/tugas/TestBarang1841720060Nurudin.java)
 
