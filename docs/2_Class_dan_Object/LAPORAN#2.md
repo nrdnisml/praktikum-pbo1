@@ -85,7 +85,7 @@ Pada percobaan ini menunjukkan bagaimana perilaku method yang memiliki nilai ret
 #### Membuat class Barang
 ![Barang.java](img/per3.JPG)
 
-Link kode program : [Barang1841720060Nurudin.java](../../src/2_Class_dan_Object/TestMahasiswa1841720060Nurudin.java)
+Link kode program : [Barang1841720060Nurudin.java](../../src/2_Class_dan_Object/Barang1841720060Nurudin.java)
 
 #### Membuat class TestBarang
 ![TestBarang.java](img/per3.1.JPG)
