@@ -107,7 +107,7 @@ Link kode program : [TestBarang1841720060Nurudin.java](../../src/2_Class_dan_Obj
 2. - Class `SewaGame1841720060Nurudin`
 ![SewaGame.java](img/tgs2.JPG)
 Link kode program : [SewaGame1841720060Nurudin.java](../../src/2_Class_dan_Object/tugas/SewaGame1841720060Nurudin.java)
-  -Class `TestSewaGame1841720060Nurudin`
+  - Class `TestSewaGame1841720060Nurudin`
 ![TestSewaGame.java](img/tgs2.1.JPG)
 Link kode program : [TestSewaGame1841720060Nurudin.java](../../src/2_Class_dan_Object/tugas/TestSewaGame1841720060Nurudin.java)
 
