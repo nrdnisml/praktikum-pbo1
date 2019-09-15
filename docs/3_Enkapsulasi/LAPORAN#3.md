@@ -95,11 +95,11 @@ Link kode program : [KoperasiDemo1841720060Nurudin.java](../../src/3_Enkapsulasi
 
 ## Tugas
 1. - Class EncapDemo
-![KoperasiDemo1841720060Nurudin.java](img/tgs1.JPG)
-Link kode program : [KoperasiDemo1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/EncapDemo1841720060Nurudin.java)
+![EncapDemo1841720060Nurudin.java](img/tgs1.JPG)
+Link kode program : [EncapDemo1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/EncapDemo1841720060Nurudin.java)
    - Class EncapTest
-![KoperasiDemo1841720060Nurudin.java](img/tgs1.1.JPG)
-Link kode program : [KoperasiDemo1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/EncapTest1841720060Nurudin.java)
+![EncapTest1841720060Nurudin.java](img/tgs1.1.JPG)
+Link kode program : [EncapTest1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/EncapTest1841720060Nurudin.java)
 2. pada class EncapTest nilai age tetap 30 meski diset 35 karena pada method setAgeNnurudin di class tersebut. Dilakukan pengkondisian dimana nilai maksimum untuk atribut age adalah 30
 3. untuk memberi nilai maksimum 30 dan minimum 18 pada atribut age dapat mengubah code dalam method setAgeNnurudin menjadi
 ```java
@@ -118,18 +118,18 @@ public void setAgeNurudin(int newAge){
 Link kode program : [KoperasiDemo1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/koperasi/Anggota1841720060Nurudin.java)
    - Class EncapTest
 ![TestKoperasi1841720060Nurudin.java](img/tgs4.1.JPG)
-Link kode program : [KoperasiDemo1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/koperasi/TestKoperasi1841720060Nurudin.java)
+Link kode program : [Anggota1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/koperasi/TestKoperasi1841720060Nurudin.java)
 
 5. - Class Anggota1841720060Nurudin
 ![Anggota1841720060Nurudin.java](img/tgs5.JPG)
 Link kode program : [KoperasiDemo1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/koperasi/koperasi_angsur10prsn/Anggota1841720060Nurudin.java)
-   - Class EncapTest
+   - Class TestKoperasi1841720060Nurudin
 ![TestKoperasi1841720060Nurudin.java](img/tgs5.1.JPG)
-Link kode program : [KoperasiDemo1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/koperasi/koperasi_angsur10prsn/TestKoperasi1841720060Nurudin.java)
+Link kode program : [TestKoperasi1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/koperasi/koperasi_angsur10prsn/TestKoperasi1841720060Nurudin.java)
 
-6. - Class EncapTest
+6. - Class TestKoperasi1841720060Nurudin
 ![TestKoperasi1841720060Nurudin.java](img/tgs6.JPG)
-Link kode program : [KoperasiDemo1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/koperasi/input_console/TestKoperasi1841720060Nurudin.java)
+Link kode program : [TestKoperasi1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/koperasi/input_console/TestKoperasi1841720060Nurudin.java)
 
 ## Kesimpulan
 
