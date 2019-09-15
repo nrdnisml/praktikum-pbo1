@@ -116,21 +116,21 @@ public void setAgeNurudin(int newAge){
 
 
 4. - Class Anggota1841720060Nurudin
-![Anggota1841720060Nurudin.java](img/tgs4.JPG)
+![tgs4.jpg](img/tgs4.jpg)
 Link kode program : [KoperasiDemo1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/koperasi/Anggota1841720060Nurudin.java)
    - Class EncapTest
-![TestKoperasi1841720060Nurudin.java](img/tgs4.1.JPG)
+![tgs4.1.jpg](img/tgs4.1.jpg)
 Link kode program : [Anggota1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/koperasi/TestKoperasi1841720060Nurudin.java)
 
 5. - Class Anggota1841720060Nurudin
-![tgs5.JPG](img/tgs5.JPG)
+![tgs5.JPG](img/tgs5.jpg)
 Link kode program : [Anggota1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/koperasi/koperasi_angsur10prsn/Anggota1841720060Nurudin.java)
    - Class TestKoperasi1841720060Nurudin
-![tgs5.1.JPG](img/tgs5.1.JPG)
+![tgs5.1.JPG](img/tgs5.1.jpg)
 Link kode program : [TestKoperasi1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/koperasi/koperasi_angsur10prsn/TestKoperasi1841720060Nurudin.java)
 
 6. - Class TestKoperasi1841720060Nurudin
-![tgs6.JPG](img/tgs6.JPG)
+![tgs6.JPG](img/tgs6.jpg)
 Link kode program : [TestKoperasi1841720060Nurudin.java](../../src/3_Enkapsulasi/tugas/koperasi/input_console/TestKoperasi1841720060Nurudin.java)
 
 ## Kesimpulan
