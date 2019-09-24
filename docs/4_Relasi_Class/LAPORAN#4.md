@@ -65,11 +65,11 @@ Link kode program : [Laptop1841720060Nurudin.java](../../src\4_Relasi_Class\perc
 Link kode program : [Sopir1841720060Nurudin.java](../../src\4_Relasi_Class\percobaan\percobaan2\Sopir1841720060Nurudin.java)
 
 -  Membuat class `Pelanggan1841720060Nurudin`
-![percobaan2.2](img/per2.2.JPG)
+![percobaan2.2](img/per2.2.jpg)
 Link kode program : [Pelanggan1841720060Nurudin.java](../../src\4_Relasi_Class\percobaan\percobaan2\Pelanggan1841720060Nurudin.java)
 
 -  Membuat class `MainPercobaan2Nurudin`
-![percobaan2.3](img/per2.3.PNG)
+![percobaan2.3](img/per2.3.png)
 Link kode program : [MainPercobaan2Nurudin.java](../../src\4_Relasi_Class\percobaan\percobaan2\MainPercobaan2Nurudin.java)
 
 #### Pertanyaan percobaan 2
@@ -210,6 +210,9 @@ sehingga menghasilkan Output :
 ## Tugas
 
 Buatlah sebuah studi kasus, rancang dengan  class  diagram, kemudian implementasikan ke dalam program! Studi kasus harus mewakili relasi  class  dari percobaan‑percobaan  yang telah dilakukan pada materi ini, setidaknya melibatkan minimal 4 class (class yang berisi main tidak dihitung).
+
+### Jawab
+
 
 ## Kesimpulan
 
