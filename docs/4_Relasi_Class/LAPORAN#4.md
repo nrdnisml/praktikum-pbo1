@@ -174,24 +174,24 @@ public String infoMasinisNurudin() {
   2. Jika object penumpang pada class Kursi1841720060Nurudin memiliki suatu nilai, maka tambahkan nilai method infoNurudin milik class Penumpang1841720060Nurudin ke dalam method info class Kursi1841720060Nurudin
   3. Karena nomor digunakan untuk memberikan nilai indeks pada array, dimana indeks awal array pada java dimulai dari angka 0.
   4. Source Code :
- ```java
-package jobsheet04.percobaan4;
-  public class MainPercobaan4Nurudin {
-      public static void main(String[] args) {
-        Penumpang1841720060Nurudin p = new Penumpang1841720060Nurudin("12345", "Mr.Krab");
-        Penumpang1841720060Nurudin budi = new Penumpang1841720060Nurudin("67890", "Budi");
-        Gerbong1841720060Nurudin gerbong = new Gerbong1841720060Nurudin("A", 10);
-        gerbong.setPenumpangNurudin(p, 2);
-        gerbong.setPenumpangNurudin(budi, 1);
-        System.out.println(gerbong.infoNurudin());
+       ```java
+      package jobsheet04.percobaan4;
+        public class MainPercobaan4Nurudin {
+            public static void main(String[] args) {
+              Penumpang1841720060Nurudin p = new Penumpang1841720060Nurudin("12345", "Mr.Krab");
+              Penumpang1841720060Nurudin budi = new Penumpang1841720060Nurudin("67890", "Budi");
+              Gerbong1841720060Nurudin gerbong = new Gerbong1841720060Nurudin("A", 10);
+              gerbong.setPenumpangNurudin(p, 2);
+              gerbong.setPenumpangNurudin(budi, 1);
+              System.out.println(gerbong.infoNurudin());
+            }
       }
-}
-```
-Output :
+      ```
+      Output :
 
-    ![per4.4.JPG](img/per4.4.JPG)
+      ![per4.4.JPG](img/per4.4.JPG)
 
-    >Penjelasan : Objek budi diset pada parameter method setPenumpangNurudin bersama dengan nilai 1 sehingga nilai dari objek budi ditempatkan pada kursi nomor 1      
+      Penjelasan : Objek budi diset pada parameter method setPenumpangNurudin bersama dengan nilai 1 sehingga nilai dari objek budi ditempatkan pada kursi nomor 1      
 
 5. Agar kursi yang sudah diisi penumpang tidak dapat diisi penumpang lain maka dilakukan modifikasi pada method setPenumpangNurudin di class Gerbong1841720060Nurudin menjadi
 ```java
