@@ -217,7 +217,7 @@ Buatlah sebuah studi kasus, rancang dengan  class  diagram, kemudian implementas
 
 Diagram UML
 
-![img](img/UML.JPG)
+![img](img/UML.jpg)
 ### Source Code
 
 - Membuat class KeretaApi1841720060Nurudin
@@ -248,18 +248,23 @@ Link kode program : [Main.java](../../src\4_Relasi_Class\tugas\Main.java)
 1. Input Penumpang
 
   ![img](img/out1.JPG)  ![img](img/out2.JPG)  ![img](img/out3.JPG)
+
 2. Menampilkan info Masinis  
 
   ![img](img/out4.JPG)
+
 3. Menampilkan info kursi Gerbong
 
   ![img](img/out5.JPG)
+
 4. Menampilkan info kereta api
 
-  ![img](img/out6.JPG)    
+  ![img](img/out6.JPG)
+
 5. Keluar
 
     ![img](img/out7.JPG)
+
 ## Kesimpulan
 
 berdasar hasil praktikum dan percobaan yang telah saya lakukan. Dalam PBO dalam suatu project setiap class yang terpisah dapat saling berelasi. Baik relas secara *one to one* atau *multiplicity* dimana sebuah class memiliki banyak relasi sekaligus.
