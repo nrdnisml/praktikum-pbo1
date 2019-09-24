@@ -211,9 +211,55 @@ sehingga menghasilkan Output :
 
 Buatlah sebuah studi kasus, rancang dengan  class  diagram, kemudian implementasikan ke dalam program! Studi kasus harus mewakili relasi  class  dari percobaan‑percobaan  yang telah dilakukan pada materi ini, setidaknya melibatkan minimal 4 class (class yang berisi main tidak dihitung).
 
+
 ### Jawab
+>Studi Kasus : Program untuk melihat informasi pada kereta api,meliputi informasi tentang masinis,info gerbong,info penumpang, info tempat duduk dalam gerbong, serta informasi tentang kereta api secara umum. Program juga dapat  menginputkan dan menentukan nomor kursi penumpang.
 
+Diagram UML
 
+![img](img/UML.JPG)
+### Source Code
+
+- Membuat class KeretaApi1841720060Nurudin
+![img](img/tgs1.png)
+Link kode program : [KeretaApi1841720060Nurudin.java](../../src\4_Relasi_Class\tugas\KeretaApi1841720060Nurudin.java)
+
+- Membuat class Pegawai1841720060Nurudin
+![img](img/per3.JPG)
+Link kode program : [Pegawai1841720060Nurudin.java](../../src\4_Relasi_Class\tugas\Pegawai1841720060Nurudin.java)
+
+- Membuat class Penumpang1841720060Nurudin
+![img](img/per4.JPG)
+Link kode program : [Penumpang1841720060Nurudin.java](../../src\4_Relasi_Class\tugas\Penumpang1841720060Nurudin.java)
+
+- Membuat class Kursi1841720060Nurudin
+![img](img/per4.1.JPG)
+Link kode program : [Kursi1841720060Nurudin.java](../../src\4_Relasi_Class\tugas\Kursi1841720060Nurudin.java)
+
+- Membuat class Gerbong1841720060Nurudin
+![img](img/tgs2.png)
+Link kode program : [Gerbong1841720060Nurudin.java](../../src\4_Relasi_Class\tugas\Gerbong1841720060Nurudin.java)
+
+- Membuat class Main
+![img](img/tgs3.png)
+Link kode program : [Main.java](../../src\4_Relasi_Class\tugas\Main.java)
+
+#### Output Program
+1. Input Penumpang
+
+  ![img](img/out1.JPG)  ![img](img/out2.JPG)  ![img](img/out3.JPG)
+2. Menampilkan info Masinis  
+
+  ![img](img/out4.JPG)
+3. Menampilkan info kursi Gerbong
+
+  ![img](img/out5.JPG)
+4. Menampilkan info kereta api
+
+  ![img](img/out6.JPG)    
+5. Keluar
+
+    ![img](img/out7.JPG)
 ## Kesimpulan
 
 berdasar hasil praktikum dan percobaan yang telah saya lakukan. Dalam PBO dalam suatu project setiap class yang terpisah dapat saling berelasi. Baik relas secara *one to one* atau *multiplicity* dimana sebuah class memiliki banyak relasi sekaligus.
