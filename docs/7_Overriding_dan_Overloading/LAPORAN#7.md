@@ -1,4 +1,4 @@
-# Laporan Praktikum #6 - Inheritance (Pewarisan)
+# Laporan Praktikum #7 - Overloading Dan Overriding
 
 ## Kompetensi
 Setelah menempuh pokok bahasan ini, mahasiswa mampu :
