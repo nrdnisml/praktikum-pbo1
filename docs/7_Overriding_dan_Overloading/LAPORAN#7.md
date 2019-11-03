@@ -1,4 +1,4 @@
-# Laporan Praktikum #7 - Overloading Dan Overriding
+# Laporan Praktikum #7 - Overloading Dan Overridinggit
 
 ## Kompetensi
 Setelah menempuh pokok bahasan ini, mahasiswa mampu :
