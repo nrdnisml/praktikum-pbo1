@@ -140,7 +140,7 @@ Link kode program : [kode program](../../src/12_Java_API/DemoHashMap1841720060Nu
 3. Menghapus item atau value yang memiliki key 1
 4. Menghapus semua mapping dalam Map
 5. ![screenshot](img/12.PNG)
-6. ![screenshot](img/12.PNG)
+6. ![screenshot](img/11.PNG)
 
     Penambahan output berupa iterasi dengan menampilkan semua element dalam Map
 7. Pada kode program sebelumnya, untuk menampilkan element dalam map dengan menggunakan object hMapItem, Sehingga tampil value dan keynya. Sedangkan pada soal no 5 untuk menampilkan element menggunakan iterator sehingga hanya tampil valuenya saja
